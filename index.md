@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你好，我是fancy
 
 You can use the [editor on GitHub](https://github.com/im-fancy/im-fancy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
